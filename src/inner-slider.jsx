@@ -1,7 +1,7 @@
 'use strict';
 
 import React from 'react';
-import EventListener from 'react/lib/EventListener';
+import EventListener from 'react/lib/ReactEventListener';
 import EventHandlersMixin from './mixins/event-handlers';
 import HelpersMixin from './mixins/helpers';
 import initialState from './initial-state';
